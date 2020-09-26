@@ -1,0 +1,152 @@
+.bg-primary{
+  background-color: red!important;
+}
+
+.App-logo {
+  height: 40vmin ;
+  pointer-events: none;
+  align-content: flex-start;
+  margin-left:-10px
+}
+
+.header-text{
+  margin:-30px 30px;
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  line-height: 32px;
+  width: 100%;
+}
+
+
+
+.App-header {
+  background-color: #eee;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.card-title{
+  color: #1c1e21;
+  font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  line-height: 32px;
+  margin-bottom: 0;
+}
+.card-container{
+  vertical-align: center;
+  border-radius: 5%;
+}
+.home-buttons{
+  width:100%;
+}
+
+.jc{
+  justify-content: center;
+}
+.card-body{
+  padding:2.25rem;
+}
+
+.text-box{
+  font-size: 17px;
+  padding: 14px 16px;
+  border-radius: 6px;
+  margin: 10px;
+}
+.form-check{
+  height: 1.7rem;
+}
+.form-check-input{
+  margin-left:-2rem;
+}
+
+input[type="radio"]{
+  margin:5px
+}
+
+.dropdown-menu.show{
+  height:200px;
+  overflow:auto
+}
+
+.forgot-link{
+  color: #ff0000;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  justify-content: center;
+}
+
+.dropdown-toggle{
+  width: 100%;
+  border: 1px solid #ced4da;
+  
+}
+.search-button{
+  background-color: #fff;
+  margin: 0px;
+}
+.noborder{
+  border:0;
+  border-color: transparent;
+}
+.navbar{
+  padding:0;
+}
+.navlinks{
+    
+    font-weight: bold;
+    line-height: 28px;
+    padding: 0 10px 1px;
+    position: relative;
+    text-decoration: none;
+    vertical-align: top;
+    color:#eee
+}
+
+.form-control{
+  height: 45px;
+}
+.glyphicon{margin-right:5px}
+.form-label{
+  color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 20px;
+    margin: 5px 15px;
+}
+
+.genderButton{
+  width: 100%;
+  border: 1px solid #ced4da;
+  margin-left: -5px;
+}
+
+.error{
+  color: red;
+  font-size:14px;
+  margin-left:10px
+
+}
+
+.errorField {
+  border: 1px solid red !important;
+}
+
+hr{
+  margin:10px
+}
+
+.btn-primary{
+  background-color:#ff0000 !important;
+}
